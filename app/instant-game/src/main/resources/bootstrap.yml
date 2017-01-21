@@ -2,4 +2,4 @@ spring:
   application:
     name: instant-game
 server:
-  port: 8001
+  port: 8002
